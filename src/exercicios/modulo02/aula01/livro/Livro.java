@@ -1,4 +1,4 @@
-package livro;
+package exercicios.modulo02.aula01.livro;
 
 public class Livro {
     private String titulo;

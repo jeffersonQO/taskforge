@@ -1,4 +1,4 @@
-import livro.Livro;
+import exercicios.modulo02.aula01.livro.Livro;
 
 void main() {
     Livro livro = new Livro();

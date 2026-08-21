@@ -1,4 +1,4 @@
-import aluno.Aluno;
+import exercicios.modulo02.aula01.aluno.Aluno;
 
 void main() {
     Aluno ana = new Aluno("Ana", 9.7, 9.3);

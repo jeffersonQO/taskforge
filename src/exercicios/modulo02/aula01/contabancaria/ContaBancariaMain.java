@@ -1,4 +1,4 @@
-import contabancaria.ContaBancaria;
+import exercicios.modulo02.aula01.contabancaria.ContaBancaria;
 
 void main() {
     ContaBancaria cbAna = new ContaBancaria("Ana", 0);

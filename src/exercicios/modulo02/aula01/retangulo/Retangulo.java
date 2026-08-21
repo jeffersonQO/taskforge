@@ -1,4 +1,4 @@
-package retangulo;
+package exercicios.modulo02.aula01.retangulo;
 
 public class Retangulo {
     private int altura;

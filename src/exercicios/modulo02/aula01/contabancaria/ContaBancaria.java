@@ -1,4 +1,4 @@
-package contabancaria;
+package exercicios.modulo02.aula01.contabancaria;
 
 public class ContaBancaria {
     private String titular;
